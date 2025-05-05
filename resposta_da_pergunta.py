@@ -1,0 +1,1 @@
+print("Resposta do exercício computacional: As variáveis tem que estar armazenadas como float para não perder a precisão, pelo fato de o inteiro não conseguir ler números com vírgula.")
