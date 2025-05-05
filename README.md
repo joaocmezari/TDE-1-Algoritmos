@@ -17,8 +17,8 @@ Um repositório para armazenar códigos git e exercícios da aula.
 ---
 ## 🪴demonstrações e prints
 #### 📌 configurando git
-![Pagina do Pull Request](PaginaPullRequest.png)
+![Pagina do Pull Request](ConfiguracaoGit.png)
 #### 📌 processo de commits e criação de arquivos
-![Criacao Da Branch](PaginaPullRequest.png)
+![Criacao Da Branch](Adicaodearquivosecommit.png)
 #### 📌 git push main 
-![Criacao Da Branch](PaginaPullRequest.png)
+![Criacao Da Branch](Gitpushmain.png)
