@@ -16,7 +16,7 @@ Um repositório para armazenar códigos git e exercícios da aula.
 ---
 ## prints de branch e pull request
 #### 📌 Criação da branch branch Arquivos-importantes
-![Pagina do Pull Request](PaginaPullRequest.png)
+![Pagina do Pull Request](NovaBranch.png)
 #### 📌 Pagina do pull request
-![Criacao Da Branch](PaginaPullRequest.png)
+![Criacao Da Branch](Pull.png)
 
